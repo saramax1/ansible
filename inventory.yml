@@ -1,0 +1,7 @@
+[nodeservers] 
+host2
+host3
+host4
+[monitorserver]
+host-test
+[khareji]

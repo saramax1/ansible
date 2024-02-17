@@ -1,0 +1,7 @@
+[nodeservers] 
+server1
+server2
+server3
+[monitorserver]
+server3
+[khareji]
